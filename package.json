@@ -1,0 +1,12 @@
+{
+  "name": "copy-amazon-dynamodb-tables-accross-accounts",
+  "version": "0.0.1",
+  "description": "Copy Amazon DynamoDB tables across accounts using a custom implementation",
+  "main": "index.js",
+  "author": "Ricardo Pires <ricardo.tech@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.181.0",
+    "dotenv": "^16.0.3"
+  }
+}
